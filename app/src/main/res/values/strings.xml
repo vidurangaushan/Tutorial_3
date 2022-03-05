@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Tutorial 3</string>
+    <string name="tn_num1">Number 1</string>
+    <string name="tv_num2">Number 2</string>
+    <string name="et_num1" />
+    <string name="et_num2" />
+    <string name="tv_toast">Openning Calculater</string>
+</resources>
